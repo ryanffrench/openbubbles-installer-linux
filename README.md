@@ -56,3 +56,6 @@ OpenBubbles is built against `libmpv.so.1`, but most current distros ship `libmp
 ## License
 
 MIT
+
+## Todo
+* Make updating automatically carry over user data (probably easy). For now export messages and settings in Openbubbles settings before updating, then after restore from backup.
