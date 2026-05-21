@@ -57,5 +57,8 @@ OpenBubbles is built against `libmpv.so.1`, but most current distros ship `libmp
 
 MIT
 
+## Notes
+* Sometimes the app crashes immediately/fails to launch if it is opened after being fully closed (open --> close --> open). This is not the script's fault! The only sol is to reboot your computer.
+
 ## Todo
 * Make updating automatically carry over user data (probably easy). For now export messages and settings in Openbubbles settings before updating, then after restore from backup.
